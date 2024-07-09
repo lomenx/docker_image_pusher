@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 zlmediakit/zlmediakit:master
-sophos/nginx-vts-exporter:v0.10.8
+sophos/nginx-vts-exporter:v0.10.7
