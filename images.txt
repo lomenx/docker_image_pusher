@@ -1,4 +1,1 @@
-nacos/nacos-server:v2.4.0.1
-nacos/nacos-server:v1.4.7
-seataio/seata-server:2.0.0
-seataio/seata-server:1.8.0
+nginx:1.26.1
