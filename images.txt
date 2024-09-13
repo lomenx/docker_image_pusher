@@ -1,1 +1,1 @@
-ubuntu:20.04
+nacos/nacos-server:v2.3.2
