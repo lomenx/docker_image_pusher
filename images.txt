@@ -1,1 +1,1 @@
-mysql:8.0.38
+mysql:8.0.40-oracle
