@@ -1,1 +1,1 @@
-python:3.12
+apache/iotdb:1.2.2-standalone
