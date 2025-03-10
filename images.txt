@@ -1,1 +1,1 @@
-elasticsearch/elasticsearch：7.17.28
+elasticsearch/elasticsearch:7.17.28
