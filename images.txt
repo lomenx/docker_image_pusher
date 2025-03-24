@@ -1,1 +1,1 @@
-logstash:7.17.28
+ghcr.io/zaproxy/zaproxy:stable
