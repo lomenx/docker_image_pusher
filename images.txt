@@ -1,1 +1,1 @@
-ghcr.io/zaproxy/zaproxy:stable
+nginx:1.26.3
