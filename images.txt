@@ -1,1 +1,1 @@
-nginx:1.26.3
+bellsoft/liberica-openjdk-debian:17.0.15
