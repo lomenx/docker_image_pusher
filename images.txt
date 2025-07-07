@@ -1,1 +1,1 @@
-openzipkin/zipkin:2.27.1-arm64
+secfa/docker-awvs
