@@ -1,1 +1,1 @@
-secfa/docker-awvs
+mysql:8.0.42
