@@ -1,1 +1,1 @@
-mysql:8.0.42
+manticoresearch/manticore:13.6.7
