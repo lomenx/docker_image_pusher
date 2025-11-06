@@ -1,1 +1,1 @@
-zlmediakit/zlmediakit:master
+mysql:8.0.44
