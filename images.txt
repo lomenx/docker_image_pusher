@@ -1,1 +1,1 @@
-grafana:12.3.0
+grafana:12.2.2
