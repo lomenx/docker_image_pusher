@@ -1,1 +1,1 @@
-portainer/portainer:2.33.5
+portainer/portainer-ce:2.33.5
