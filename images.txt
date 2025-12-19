@@ -1,1 +1,1 @@
-prom/pushgateway:v1.11.2
+nginx:1.28.0-alpine
