@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:latest
+tomcat:9.0
