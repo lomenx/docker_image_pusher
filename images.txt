@@ -1,1 +1,1 @@
-nginx:1.18.2-alpine
+nginx:1.18.3-alpine
